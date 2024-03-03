@@ -11,6 +11,7 @@ bsub*
 .csv
 .png
 .jpg
+data_files/*.h5
 
 temp
 trained_model_weights
